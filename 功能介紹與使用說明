@@ -1,4 +1,4 @@
-功能介紹：1.主要是使用EPPLUS元件，將c#的List類型的資料，直接轉成Excel檔案匯出。
+﻿功能介紹：1.主要是使用EPPLUS元件，將c#的List類型的資料，直接轉成Excel檔案匯出。
 　　　　　2.使用者有二種方法，可輕鬆地訂定資料的表頭(Header)欄位，並於Excel檔案內呈現。
 　　　　　3.上述二種方法除了輸出表頭欄位外，也可進行表頭內容動態改變與欄位合併。
 
@@ -7,3 +7,5 @@
 　　　　　3.請於 EPPlusExam 下建立一個名為 Infrastructure 目錄，並將此 Repository 的 Infrastructure下的所有檔案，均複製到剛才建立的目錄中
 　　　　　4.將此 Repository 的 Controllers 下的檔案，均複製到 EPPlusExam 的 Controller 中
 　　　　　5.執行(F5)此Project後，於網頁上按下『關於』或『連絡方式』即可得到二種不同的方法所產生的 Excel 檔
+
+123
