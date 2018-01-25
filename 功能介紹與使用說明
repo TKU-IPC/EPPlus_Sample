@@ -1,7 +1,7 @@
 功能介紹：1.主要是使用EPPLUS元件，將c#的List類型的資料，直接轉成Excel檔案匯出。
 　　　　　2.使用者有二種方法，可輕鬆地訂定資料的表頭(Header)欄位，並於Excel檔案內呈現。
 　　　　　3.上述二種方法除了輸出表頭欄位外，也可進行表頭內容動態改變與欄位合併。
-
+22222222
 使用說明：1.請於 VS Studio 建立一個名為 EPPlusExam 空白的 MVC Project
 　　　　　2.開啟 Nuget,並安裝 EPPLUS 元件
 　　　　　3.請於 EPPlusExam 下建立一個名為 Infrastructure 目錄，並將此 Repository 的 Infrastructure下的所有檔案，均複製到剛才建立的目錄中
